@@ -1,1 +1,1 @@
-# dragon-repeller
+Text based RPG game from the FreeCodeCamp curriculum
